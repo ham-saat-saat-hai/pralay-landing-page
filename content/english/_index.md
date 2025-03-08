@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Pralay, Game The Climate"
-  content: ""
+  content: "A climate strategy game where every choice you make shapes the fate of an entire planet."
   image: "/images/banner.gif"
   button:
     enable: true
@@ -11,43 +11,11 @@ banner:
 
 # Features
 features:
-  - title: "Why Play The Game"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+  - title: "Pralay: Become The Next President"
+    image: "/images/board-image.jpg"
+    content: "Divided into three factions, Prapanch, the Earth's quasi-twin planet, is having its 150th world government election. Your goal as a player is to become the president by making wise decisions to secure the most votes from your faction. But it's not simple. While ensuring your people are satisfied, you also have to keep Prapanch's global average temperature in check. Will you be able to balance people's needs, global politics, and climate change? Play to find out..."
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+  - title: "Why Did We Make The Game?"
+    image: "/images/group-image.jpeg"
+    content: "We are Abhishek Panchal, Anushka Barthwal, Shweata Hegde and Tanvi Saxena, four Young India Fellows who are climate nerds, gamers and pop culture experts. Combining our expertise in research, communication, psychology, and sociology, we have developed Pralay---a game where you get to have fun while immersing yourself in the science and politics of climate change. Yes, we are aware that human-induced climate change is a serious problem humanity currently faces. But we want you to take a break from information overload and anxiety-inducing doomsday stories. While it is important to be grounded in reality, sometimes fear makes you resist information. Research shows that games are a better way of engaging with scientific and political nuances of climate change and inoculate yourself from misinformation. We hope that the game becomes a fight-starter at your next family or friends get-together!"
 ---
