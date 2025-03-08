@@ -10,6 +10,12 @@ weight = 1
 name = "About"
 url = "/about"
 weight = 2
+
+[[main]]
+name = "Blog"
+url = "https://pralay.netlify.app/notes/"
+weight = 3
+
 # footer menu
 [[footer]]
 name = "About"
